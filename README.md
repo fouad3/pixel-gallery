@@ -10,7 +10,7 @@
 
 ## Description
 - A photo gallery app that allows you to view a list of premium photos and select them for checkout.
-- Built With: [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vuetify](https://vuetifyjs.com/en/) and [Firebase](https://firebase.google.com/).
+- Built using [Vue](https://vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vuetify](https://vuetifyjs.com/en/) and [Firebase](https://firebase.google.com/).
 
 
 ## How to Run Project
