@@ -19,7 +19,7 @@
 2. run the app by using the following commands:
       1. Navigate to the project folder:
           ```
-          cd reactnd-project-myreads
+          cd pixel-gallery
           ```
       2. Install app dependancies:
           ```
